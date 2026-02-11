@@ -1,0 +1,11 @@
+# Core Machine Learning [cite: 672, 698]
+tensorflow==2.20.0
+numpy
+pillow
+
+# UI and Deployment 
+streamlit
+
+# Data Visualization [cite: 633, 680]
+matplotlib
+seaborn
